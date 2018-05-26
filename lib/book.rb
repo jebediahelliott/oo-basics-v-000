@@ -17,6 +17,7 @@ attr_accessor(:genre, :page_count)
     @author
   end
 
-  #def genre=(genre)
-  #  @gen
+  def turn_page
+    puts "Flipping the page...wow, you read fast!"
+  end
 end
