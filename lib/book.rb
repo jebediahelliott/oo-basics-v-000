@@ -3,7 +3,7 @@ class Book
     @title = title
   end
 
-attr_accessor :genre 
+attr_accessor :genre :name
 
   def title
     @title
