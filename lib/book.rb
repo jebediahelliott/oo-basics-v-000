@@ -17,6 +17,6 @@ attr_accessor @genre @page_count
     @author
   end
 
-  def genre=(genre)
-    @gen
+  #def genre=(genre)
+  #  @gen
 end
