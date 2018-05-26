@@ -3,6 +3,8 @@ class Book
     @title = title
   end
 
+  attr_accessor genre:, page_count:
+
   def title
     @title
   end
